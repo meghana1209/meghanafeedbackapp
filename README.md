@@ -1,8 +1,4 @@
-Here’s a clean, well-structured version of a **README.md** file for your `meghanafeedbackapp` project. You can adjust any section to fit your project’s exact needs.
 
----
-
-````markdown
 # Meghana Feedback App
 
 A web/mobile/desktop application for collecting, managing, and analyzing user feedback.  
